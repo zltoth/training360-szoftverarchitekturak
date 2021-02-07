@@ -5,3 +5,4 @@
 ![RIA-JS2](RIA-JS2.pdf)
 ![RIA-JS3](RIA-JS3.pdf)
 ![RIA-webalkalmazás](RIA-webalkalmazás.pdf)
+![swagger](swagger.pdf)
